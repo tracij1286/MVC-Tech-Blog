@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tracij1286/MVC-Tech-Blog.git"
+    "url": "git+https://git.heroku.com/mvc-tech-blog1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tracij1286/MVC-Tech-Blog.git"
+    "url": "https://git.heroku.com/mvc-tech-blog1.git"
   },
-  "homepage": "https://github.com/tracij1286/MVC-Tech-Blog.git",
+  "homepage": "https://git.heroku.com/mvc-tech-blog1.git",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.3",
